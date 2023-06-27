@@ -1,6 +1,6 @@
 # Admin User Interface
 
-![Admin UI](/admin_ui/public/adminui.jpg)
+![Admin UI](https://github.com/lakharashubham007/Admin-UI/blob/main/public/adminui.jpg?raw=true)
 
 This is a user interface for admins to view and delete users in a startup. The interface retrieves user data from an API and provides various features to manage the user records.
 
